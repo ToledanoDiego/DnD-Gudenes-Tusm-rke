@@ -1,0 +1,1 @@
+{"Svweren": 0, "Cabane du Marabout": 0, "Domaine du Baron": 1, "Cabane de la Voyante": 0, "Cabana Coco": 0, "-----": 0}
